@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Smooch+Sans&family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Poppins:wght@200&family=Smooch+Sans&family=Special+Elite&display=swap');
 body{
-    font-family: 'Balsamiq Sans', cursive;
-background-color: #fec7d7;
-color:#a786df ;
+    font-family: 'Poppins', sans-serif;
+background-color: #faeee7;
+color:#33272a ;
 }
 
 h1{
