@@ -1,10 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Montserrat:wght@500&family=Poppins:wght@200&family=Smooch+Sans&family=Special+Elite&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Poppins:wght@200&family=Smooch+Sans&family=Special+Elite&display=swap');
 body{
     font-family: 'Poppins', sans-serif;
-background-color: #faeee7;
+background-color: #fec7d7;
 color:#33272a ;
 }
 
 h1{
+    
+    font-family:'Montserrat', sans-serif; 
     font-weight:950;
+    font-size:xx-large
 }
