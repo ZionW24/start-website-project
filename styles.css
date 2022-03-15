@@ -2,13 +2,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Poppins:wght@200&family=Smooch+Sans&family=Special+Elite&display=swap');
 body{
     font-family: 'Poppins', sans-serif;
-background-color: #fec7d7;
+background-color: #fef6e4;
 color:#33272a ;
 }
 
 h1{
+    text-align: right;
+    white-space: nowrap;
+    border-left: 15px solid #f3d2c1;
     
     font-family:'Montserrat', sans-serif; 
     font-weight:900;
     font-size:xx-large
+}
+table,td,tr,th{
+    border: 1px solid black;
+    border-collapse: collapse;
 }
