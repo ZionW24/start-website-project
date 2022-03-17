@@ -1,20 +1,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Montserrat:wght@500&family=Poppins:wght@200&family=Smooch+Sans&family=Special+Elite&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Poppins:wght@200&family=Smooch+Sans&family=Special+Elite&display=swap');
 
+.header{
+    
+      
+           
+        
+        
+        
 
+    display: inline;
+    padding-right: 10px;
+    font-weight: bolder;
+    background-color: #64708e36;
+    padding-left: 10px;
+    margin-left: auto;
+    /* border-bottom: 6px solid #f582ae; */
+    /* color: #fef6e4; */
+    border-radius: 7px;
+    
+
+}
 body{
-    border-radius: 50px;
-    padding: 10px;
-    border: 1px solid pink;
-    font-family: 'Poppins', sans-serif;
-background-color: #232946;
-color:#fffffe ;
+        border-radius: 10px;
+        padding: 10px;
+        border: 2px solid pink;
+        font-family: 'Poppins', sans-serif;
+        background-color: #232946;
+        color: #fffffe;
    
    
   
 }
 
-h1{
+.h1{
     
     text-align: left;
     white-space: nowrap;
@@ -44,4 +63,6 @@ input[type=submit] {
     border-radius: 30px;
     font-weight: 700;
 }
-
+.center-text{
+    text-align: center;
+}
